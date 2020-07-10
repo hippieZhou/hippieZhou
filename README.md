@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## hippieZhou
+
+Hi! I'm hippie 🙋🏽‍♂️. By day I'm a software engineer, and by night I learn .NET Technology Stack 🙌🏽. Here's a gist about me:
+
+* 📚 I taught myself .NET Core, C#, and XAML
+* 📷 [I built the Wallpaper client on the Microsoft Store](https://www.microsoft.com/en-us/p/attention-for-uwp/9nc82mfx4btz)
+
+* 😅 I like C# as I love ❤️
+
+## Talk to me
+Find me on twitter: https://twitter.com/hippiechou
+
+Find me on cnblogs: https://www.cnblogs.com/hippieZhou
+
+Connect with me: [hippiezhou@outlook.com](mailto:hippiezhou@outlook.com)
