@@ -24,11 +24,7 @@ Hi! I'm hippie 🙋🏽‍♂️. By day I'm a software engineer, and by night I
 
 * 😅 I like C# as I love ❤️
 
-<div align=center>
-
 [![hippie's github stats](https://github-readme-stats.vercel.app/api?username=hippiezhou)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ## Talk to me
 Find me on twitter: https://twitter.com/hippiechou
