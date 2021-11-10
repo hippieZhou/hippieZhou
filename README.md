@@ -13,7 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋.Welcome to my profile.
+<div align="center">
+  <h1> Hi there 👋. <br>My name is hippiezhou</h1>
+
+[![Github](https://img.shields.io/github/followers/hippiezhou?label=Follow&style=social)](https://github.com/hippiezhou)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hippiechou?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=hippiechou) 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hippiezhou.repoName)](https://github.com/hippiezhou)
+
+</div>
+
+## Welcome to my profile.
 
 >By day I'm a software engineer, and by night I learn .NET Technology Stack 🙌🏽. 
 
@@ -49,11 +58,3 @@ Here are some ideas to get you started:
 <a href="mailto:hippiezhou@outlook.com">![Email Me!!](https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white)</a>
 <a href="https://twitter.com/hippiechou" target="_blank">![Email Me!!](https://img.shields.io/badge/twitter-22a1ee?style=for-the-badge&logo=twitter&logoColor=white)</a>
 <a href="https://www.cnblogs.com/hippieZhou" target="_blank">![Email Me!!](https://img.shields.io/badge/cnblogs-2e7acc?style=for-the-badge&logo=cnblogs&logoColor=white)</a>
-
----
-
-<div align="center">
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hippiezhou.repoName)
-
-</div>
