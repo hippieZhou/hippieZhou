@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 [![Github](https://img.shields.io/github/followers/hippiezhou?label=Follow&style=social)](https://github.com/hippiezhou)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hippiechou?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=hippiechou) 
+[![PV](https://komarev.com/ghpvc/?username=hippiezhou&color=ff69b4&label=PV+Since+2021-11-11)](https://github.com/hippiezhou)
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hippiezhou.repoName)](https://github.com/hippiezhou)
 
 </div>
@@ -52,6 +53,8 @@ Here are some ideas to get you started:
 ## Top Languages 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hippiezhou&layout=compact)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hippiezhou&repo=hippiezhou)
 
 ## Contact Me
 
