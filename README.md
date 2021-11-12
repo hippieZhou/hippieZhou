@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 
 ## Contact Me
 
-<a href="mailto:hippiezhou@outlook.com">![Email Me!!](https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white)</a>
+<a href="mailto:hippiezhou@outlook.com">![Email Me!!](https://img.shields.io/badge/outlook-0b75bf?style=for-the-badge&logo=outlook&logoColor=white)</a>
 <a href="https://twitter.com/hippiechou" target="_blank">![Email Me!!](https://img.shields.io/badge/twitter-22a1ee?style=for-the-badge&logo=twitter&logoColor=white)</a>
 <a href="https://www.cnblogs.com/hippieZhou" target="_blank">![Email Me!!](https://img.shields.io/badge/cnblogs-2e7acc?style=for-the-badge&logo=cnblogs&logoColor=white)</a>
