@@ -54,8 +54,6 @@ Here are some ideas to get you started:
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hippiezhou&layout=compact)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hippiezhou&repo=hippiezhou)
-
 ## Contact Me
 
 <a href="mailto:hippiezhou@outlook.com">![Email Me!!](https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white)</a>
