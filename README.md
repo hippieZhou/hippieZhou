@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
  ## Repository Stats
  
- ![Alt](https://repobeats.axiom.co/api/embed/5d21f649966ec115152be58bd39142247521033a.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/5d21f649966ec115152be58bd39142247521033a.svg "Repobeats analytics image")
 
 ## Top Languages 
 
