@@ -53,6 +53,10 @@ Here are some ideas to get you started:
 ## Top Languages 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hippiezhou&layout=compact)
+ 
+ ## Stats
+ 
+ ![Alt](https://repobeats.axiom.co/api/embed/5d21f649966ec115152be58bd39142247521033a.svg "Repobeats analytics image")
 
 ## Contact Me
 
