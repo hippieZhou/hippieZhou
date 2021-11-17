@@ -44,21 +44,20 @@ Here are some ideas to get you started:
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
-
-## My GitHub Stats
+## GitHub Stats
 
  <img src="https://github-readme-stats.vercel.app/api?username=hippiezhou&show_icons=true&theme=dark" alt="hippie's stats" width="45%" align="right"/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hippiezhou&theme=dark" width="45%" alt="hippie's streak">
 
-## Top Languages 
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hippiezhou&layout=compact)
- 
- ## Stats
+ ## Repository Stats
  
  ![Alt](https://repobeats.axiom.co/api/embed/5d21f649966ec115152be58bd39142247521033a.svg "Repobeats analytics image")
 
-## Contact Me
+## Top Languages 
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hippiezhou&layout=compact)
+
+## Contact
 
 <a href="mailto:hippiezhou@outlook.com">![Email Me!!](https://img.shields.io/badge/outlook-0b75bf?style=for-the-badge&logo=outlook&logoColor=white)</a>
 <a href="https://twitter.com/hippiechou" target="_blank">![Email Me!!](https://img.shields.io/badge/twitter-22a1ee?style=for-the-badge&logo=twitter&logoColor=white)</a>
