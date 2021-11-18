@@ -44,6 +44,10 @@ Here are some ideas to get you started:
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
 </p>
 
+## Top Languages 
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hippiezhou&layout=compact)
+
 ## GitHub Stats
 
  <img src="https://github-readme-stats.vercel.app/api?username=hippiezhou&show_icons=true&theme=dark" alt="hippie's stats" width="45%" align="right"/>
@@ -52,10 +56,6 @@ Here are some ideas to get you started:
  ## Repository Stats
  
 ![Alt](https://repobeats.axiom.co/api/embed/5d21f649966ec115152be58bd39142247521033a.svg "Repobeats analytics image")
-
-## Top Languages 
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hippiezhou&layout=compact)
 
 ## Contact
 
