@@ -32,16 +32,30 @@ Here are some ideas to get you started:
 
 📷 [I built a Wallpaper app on the Microsoft Store](https://www.microsoft.com/en-us/p/attention-for-uwp/9nc82mfx4btz)
 
-## Tech Stack
+## Tech Stack & Tools
 <p>
-  <img alt="wpf&uwp" src="https://img.shields.io/badge/-WPF&UWP-178600?style=flat-square&logo=wpf&logoColor=white" />
-  <img alt="asp.net core" src="https://img.shields.io/badge/-ASP.NET Core-178600?style=flat-square&logo=web&logoColor=white" />
-  <img alt="csharp" src="https://img.shields.io/badge/-C%23-178600?style=flat-square&logo=charp&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
-  <img alt="sqlserver" src="https://img.shields.io/badge/-SqlServer-2675b8?style=flat-square&logo=charp&logoColor=white" />
-  <img alt="nginx" src="https://img.shields.io/badge/-Nginx-009539?style=flat-square&logo=nginx&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
+    <img alt="OS - Windows" src="https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=microsoft&logoColor=white&color=%2300A1F1">
+    <img alt="OS - Ubuntu" src="https://img.shields.io/badge/OS-Ubuntu-blue?style=flat-square&logo=linux&logoColor=white&color=%2300A1F1">
+    <br/>
+    <img alt="IDE - VS" src="https://img.shields.io/badge/IDE-VisualStudio-blue?style=flat-square&logo=visual-studio&logoColor=white&color=%2300A1F1">
+    <img alt="IDE - VS Code" src="https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white&color=%2300A1F1">
+    <br/>
+    <img alt="Code - C#" src="https://img.shields.io/badge/Code-CSharp-blue?style=flat-square&logo=c-sharp&logoColor=white&color=%2300A1F1">
+    <img alt="Code - XAML" src="https://img.shields.io/badge/Code-XAML-blue?style=flat-square&logo=xaml&logoColor=white&color=%2300A1F1">
+    <img alt="Code - Python" src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white&color=%2300A1F1">
+    <img alt="Code - SQL" src="https://img.shields.io/badge/Code-SQL-blue?style=flat-square&logo=microsoft-sql-server&logoColor=white&color=%2300A1F1">
+    <br/>
+    <img alt="Framework - WPF" src="https://img.shields.io/badge/Framework-WPF-blue?style=flat-square&logo=wpf&logoColor=white&color=%2300A1F1">
+    <img alt="Framework - UWP" src="https://img.shields.io/badge/Framework-UWP-blue?style=flat-square&logo=uwp&logoColor=white&color=%2300A1F1">
+    <img alt="Framework - Asp.Net Core" src="https://img.shields.io/badge/Framework-Asp.Net Core-blue?style=flat-square&logo=uwp&logoColor=white&color=%2300A1F1">
+    <img alt="Framework - Django" src="https://img.shields.io/badge/Framework-Django-blue?style=flat-square&logo=django&logoColor=white&color=%2300A1F1">
+    <img alt="Framework - Flask" src="https://img.shields.io/badge/Framework-Flask-blue?style=flat-square&logo=flask&logoColor=white&color=%2300A1F1">
+    <br/>
+    <img alt="Tools - Git" src="https://img.shields.io/badge/Tools-Git-blue?style=flat-square&logo=git&logoColor=white&color=%2300A1F1">
+    <img alt="Tools - SVN" src="https://img.shields.io/badge/Tools-SVN-blue?style=flat-square&logo=git&logoColor=white&color=%2300A1F1">
+    <img alt="Tools - Nginx" src="https://img.shields.io/badge/Tools-Nginx-blue?style=flat-square&logo=nginx&logoColor=white&color=%2300A1F1">
+    <img alt="Tools - IIS" src="https://img.shields.io/badge/Tools-IIS-blue?style=flat-square&logo=microsoft-iis&logoColor=white&color=%2300A1F1">
+    <img alt="Tools - Markdown" src="https://img.shields.io/badge/Tools-Markdown-blue?style=flat-square&logo=markdown&logoColor=white&color=%2300A1F1">
 </p>
 
 ## Top Languages 
