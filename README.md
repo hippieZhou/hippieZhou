@@ -51,6 +51,7 @@ Here are some ideas to get you started:
     <img alt="Framework - Django" src="https://img.shields.io/badge/Framework-Django-blue?style=flat-square&logo=django&logoColor=white&color=%2300A1F1">
     <img alt="Framework - Flask" src="https://img.shields.io/badge/Framework-Flask-blue?style=flat-square&logo=flask&logoColor=white&color=%2300A1F1">
     <br/>
+    <img alt="Tools - Jira" src="https://img.shields.io/badge/Tools-jira-blue?style=flat-square&logo=jira&logoColor=white&color=%2300A1F1">
     <img alt="Tools - Git" src="https://img.shields.io/badge/Tools-Git-blue?style=flat-square&logo=git&logoColor=white&color=%2300A1F1">
     <img alt="Tools - SVN" src="https://img.shields.io/badge/Tools-SVN-blue?style=flat-square&logo=git&logoColor=white&color=%2300A1F1">
     <img alt="Tools - Nginx" src="https://img.shields.io/badge/Tools-Nginx-blue?style=flat-square&logo=nginx&logoColor=white&color=%2300A1F1">
