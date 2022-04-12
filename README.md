@@ -79,5 +79,3 @@ Here are some ideas to get you started:
 <a href="https://www.cnblogs.com/hippieZhou" target="_blank">![Email Me!!](https://img.shields.io/badge/cnblogs-2e7acc?style=for-the-badge&logo=cnblogs&logoColor=white)</a>
 
 <br/>
-
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/hippieZhou/hippieZhou)
