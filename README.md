@@ -26,7 +26,7 @@ public sealed class About : Me
     {
         return new
         {
-            workplace = new
+            Workplace = new
             {
                 Company = "Thoughtworks",
                 Position = "China"
