@@ -63,7 +63,7 @@ public sealed class About : Me
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hippiezhou&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hippiezhou&column=-1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
