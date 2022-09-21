@@ -13,13 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"><a href="https://hippiezhou.dev"><img alt="Hello, I'm hippiezhou. I like open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+## Self Introduction
+
 ```csharp
-// TODO: self introduction
 
 ```
 
+## 🏆 Github Profile Trophy
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hippiezhou)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hippiezhou&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🔥 Github Streak
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hippiezhou)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+![github-profile-views-counter](https://komarev.com/ghpvc/?username=hippiezhou)
 
 </div>
