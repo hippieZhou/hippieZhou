@@ -52,8 +52,8 @@ public sealed class About : Me
     {
         return new Dictionary<string, string>()
         {
-            { "Lift", "Love What I love" },
-            { "Work", "Do What I want" }
+            { "Lift", "Love what my love" },
+            { "Work", "Do what I want" }
         };
     }
 }
