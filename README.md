@@ -15,10 +15,48 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://hippiezhou.dev"><img alt="Hello, I'm hippiezhou. I like open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-## Self Introduction
+## 👨‍💻 Self Introduction
 
 ```csharp
+public sealed class About : Me
+{
+    public object GetCurrentWorkplace()
+    {
+        return new
+        {
+            workplace = new
+            {
+                Company = "Thoughtworks",
+                Position = "China"
+            }
+        };
+    }
 
+    public IEnumerable<string> GetDailyKnowledge()
+    {
+        return new[]
+        {
+            "C#", "ASP.NET Core", "WPF", "UWP",
+            "React.js", "Vue.js", "HTML", "JavaScript", "CSS",
+            "SQL Server", "Oracle", "MySQL",
+            "Nginx", "IIS", "Powershell", "Python",
+            "Windows", "Ubuntu", "MacOS",
+            "Azure Devops", "Github Action", "CI&CD",
+            "TDD", "DDD"
+        };
+    }
+
+    public string GetFutureGoal() => "To be a Fullstack Developer.";
+
+    public IDictionary<string, string> GetContactInfo()
+    {
+        return new Dictionary<string, string>()
+        {
+            {"Lift", "Love What I love"},
+            {"Work", "Do What I want"}
+        };
+    }
+}
 ```
 
 ## 🏆 Github Profile Trophy
