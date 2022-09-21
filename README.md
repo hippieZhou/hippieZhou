@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ```csharp
 public sealed class About : Me
 {
+    private const string MY_DREAM = "To be a Fullstack Developer.";
+
     public object GetCurrentWorkplace()
     {
         return new
@@ -46,14 +48,12 @@ public sealed class About : Me
         };
     }
 
-    public string GetFutureGoal() => "To be a Fullstack Developer.";
-
-    public IDictionary<string, string> GetContactInfo()
+    public IDictionary<string, string> GetFutureGoal()
     {
         return new Dictionary<string, string>()
         {
-            {"Lift", "Love What I love"},
-            {"Work", "Do What I want"}
+            { "Lift", "Love What I love" },
+            { "Work", "Do What I want" }
         };
     }
 }
