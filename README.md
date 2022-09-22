@@ -52,7 +52,7 @@ public sealed class About : Me
     {
         return new Dictionary<string, string>()
         {
-            { "Lift", "Love what my love" },
+            { "Life", "Love what my love" },
             { "Work", "Do what I want" }
         };
     }
