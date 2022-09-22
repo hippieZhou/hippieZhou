@@ -59,6 +59,14 @@ public sealed class About : Me
 }
 ```
 
+## 📈 Github Activity Graph
+
+<div align="center">
+
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=hippiezhou&theme=github)
+
+</div>
+
 ## 🏆 Github Profile Trophy
 
 <div align="center">
