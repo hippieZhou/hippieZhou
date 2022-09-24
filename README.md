@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 public sealed class About : Me
 {
     private const string MY_DREAM = "To be a Fullstack Developer.";
+    private const string MY_QUOTE = "It is no use doing what you like; you have got to like what you do."
 
     public object GetCurrentWorkplace()
     {
@@ -86,8 +87,6 @@ public sealed class About : Me
 ---
 
 <div align="center">
-
-<img alt="center" src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/hippieZhou/hippieZhou/blob/master/assets/quotes.json&animation=grow_out_in&font=Redressed">
 
 ![github-profile-views-counter](https://komarev.com/ghpvc/?username=hippiezhou)
 
