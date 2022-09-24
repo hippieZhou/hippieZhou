@@ -87,6 +87,8 @@ public sealed class About : Me
 
 <div align="center">
 
+<img alt="center" src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/hippieZhou/hippieZhou/blob/master/assets/quotes.json&animation=grow_out_in&font=Redressed">
+
 ![github-profile-views-counter](https://komarev.com/ghpvc/?username=hippiezhou)
 
 </div>
