@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** at **Thoughtworks** with over **9 years of experience** in C# and .NET development. I specialize in building robust, scalable applications across the full technology stack - from client-side applications to enterprise-grade backend services.
+I'm a **Software Engineer** at **Thoughtworks** with over **10 years of experience** in C# and .NET development. I specialize in building robust, scalable applications across the full technology stack - from client-side applications to enterprise-grade backend services.
 
 ### 🎯 What I Do
 
